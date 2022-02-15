@@ -16,7 +16,4 @@ _🦌 网页小游戏 🥛_
 
 [诺莉尔b站](https://space.bilibili.com/66692456)
 |
-[线上版本](https://xingye.me/game/eatkano/index.php)
-|
-[Github Pages](https://arcxingye.github.io/EatKano/index.html)
-|
+[线上版本](https://tiandianli.github.io/EatKano/)
